@@ -108,7 +108,7 @@ MyGet has the following feed endpoints available for Bower:
 MyGet has the following feed endpoints available for Vsix (Visual Studio extensions):
 
 * /F/&lt;your-feed-name&gt;/vsix - the VSIX Atom feed API endpoint
-* /F/&lt;your-feed-name&gt;/vsix/package - the VSIX upload endpoint
+* /F/&lt;your-feed-name&gt;/vsix/upload - the VSIX upload endpoint
 
 ### PHP Composer-compatible feed endpoints
 
